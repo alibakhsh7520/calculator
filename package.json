@@ -1,6 +1,6 @@
 {
-  "name": "jumani_guessgame_7520",
-  "version": "1.0.0",
+  "name": "alijumani_guessgame_7520",
+  "version": "1.0.4",
   "description": "a simpal guess game",
   "main": "index.js",
   "type": "module",
