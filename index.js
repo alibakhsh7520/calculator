@@ -1,4 +1,3 @@
-#! /usr/bin/env nodecm
 console.log("\n\twelcome to \' code with Ali Bakhsh jumani\'-guess game\n ");
 //guess game
 import inquirer from "inquirer";
